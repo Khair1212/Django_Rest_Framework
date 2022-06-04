@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual Env
+drf/
+
+
+# idea
+RestFrame/.idea/
+.idea
+
+# migrations
+RestFrame/api/migrations/
+RestFrame/books/migrations/
+migrations/
+
+
 # Distribution / packaging
 .Python
 build/
