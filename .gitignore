@@ -16,6 +16,7 @@ RestFrame/.idea/
 RestFrame/api/migrations/
 RestFrame/books/migrations/
 
+
 # Distribution / packaging
 .Python
 build/
