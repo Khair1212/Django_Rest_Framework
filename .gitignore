@@ -9,6 +9,12 @@ __pycache__/
 # Virtual Env
 drf/
 
+# idea
+.idea/
+
+# migrations
+migrations/
+
 # Distribution / packaging
 .Python
 build/
