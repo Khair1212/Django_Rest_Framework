@@ -1,4 +1,4 @@
-# **Django Rest FrameWork** 
+# **Django Rest Framework** 
 **Reference Book** [Django For APIS](https://djangoforapis.com/) [William S. Vincent] 
 
 
